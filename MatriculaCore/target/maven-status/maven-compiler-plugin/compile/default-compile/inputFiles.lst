@@ -1,0 +1,8 @@
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/jpa/AlunoDao.java
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/entidades/Aluno.java
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/enums/TypeSexo.java
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/jpa/AlunoDaoImpl.java
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/entidades/AlunoBuilder.java
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/main/Loader.java
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/entidades/LocalDateConvert.java
+/home/dijalma/MEGA/Workspace/SistemaMatricula/MatriculaCore/src/main/java/dijalmasilva/matriculacore/validacao/ValidaAluno.java

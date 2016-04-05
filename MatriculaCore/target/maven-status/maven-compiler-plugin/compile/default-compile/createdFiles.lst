@@ -1,0 +1,8 @@
+dijalmasilva/matriculacore/enums/TypeSexo.class
+dijalmasilva/matriculacore/entidades/Aluno.class
+dijalmasilva/matriculacore/jpa/AlunoDaoImpl.class
+dijalmasilva/matriculacore/jpa/AlunoDao.class
+dijalmasilva/matriculacore/entidades/AlunoBuilder.class
+dijalmasilva/matriculacore/validacao/ValidaAluno.class
+dijalmasilva/matriculacore/main/Loader.class
+dijalmasilva/matriculacore/entidades/LocalDateConvert.class
